@@ -1,0 +1,39 @@
+{
+ "kind": "webfonts#webfontList",
+ "items": [
+  {
+   "kind": "webfonts#webfont",
+   "family": "ABeeZee",
+   "category": "sans-serif",
+   "variants": [
+    "regular",
+    "italic"
+   ],
+   "subsets": [
+    "latin"
+   ],
+   "version": "v13",
+   "lastModified": "2019-07-17",
+   "files": {
+    "regular": "http://fonts.gstatic.com/s/abeezee/v13/esDR31xSG-6AGleN6tKukbcHCpE.ttf",
+    "italic": "http://fonts.gstatic.com/s/abeezee/v13/esDT31xSG-6AGleN2tCklZUCGpG-GQ.ttf"
+   }
+  },
+  {
+   "kind": "webfonts#webfont",
+   "family": "Abel",
+   "category": "sans-serif",
+   "variants": [
+    "regular"
+   ],
+   "subsets": [
+    "latin"
+   ],
+   "version": "v10",
+   "lastModified": "2019-07-17",
+   "files": {
+    "regular": "http://fonts.gstatic.com/s/abel/v10/MwQ5bhbm2POE6VhLPJp6qGI.ttf"
+   }
+  }
+ ]
+}
